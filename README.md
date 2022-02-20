@@ -1,5 +1,5 @@
 # VCS-Dle
-Download the ROM [here]()!
+Download the ROM [here](https://github.com/akumanatt/2600-wordle/releases/download/v1.0.0/wordle.bin)!
 
 ![Emulator screenshot](screenshot.png)
 
